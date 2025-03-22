@@ -1,0 +1,4 @@
+Label,# Samples,Average,Min,Max,Std. Dev.,Error %,Throughput,Received KB/sec,Sent KB/sec,Avg. Bytes
+Get Tours,397492,15,0,2313,61.19,5.808%,2220.68773,854.73,314.57,394.1
+Book Tour,397437,12,0,3995,54.36,5.278%,2221.06293,773.74,417.07,356.7
+TOTAL,794929,14,0,3995,57.90,5.543%,4440.96894,1628.19,731.50,375.4
